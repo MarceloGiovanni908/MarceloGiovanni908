@@ -1,20 +1,21 @@
+<div align="center">
+    <img src="https://i.redd.it/n8agw6z2smyb1.gif" width="700" height="400" />
+</div>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Heydar+Emir+Alvaro!;" />
 </h1>
-
 <h3 align="left">A computer science student who has passionate in machine learning and data science.</h3>
 
 <br/>
 
 <div align="left">
- 
- 🎓 I’m studying at **UPN VETERAN JAKARTA**
- 
- 📉 **data scientist**
-
- 🎮 Fun fact **I enjoy playing video games during my leisure time.**
-
- </div>
+    🎓 I’m studying at **UPN VETERAN JAKARTA**
+    <br/>
+    📉 **data scientist**
+    <br/>
+    🎮 Fun fact **I enjoy playing video games during my leisure time.**
+</div>
  
 <div align="center"> 
   <a href="mailto:heydaremiralvaro@gmail.com">
