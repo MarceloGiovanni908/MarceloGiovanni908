@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://c.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="1000" />
 </div>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelogiovanni908&label=Hi%20visitors&color=14a5b8&style=flat" alt="marcelogiovanni908" /> </p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Heydar+Emir+Alvaro!;" />
 </h1>
