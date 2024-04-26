@@ -54,12 +54,8 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelogiovanni908&show_icons=true&theme=dark&locale=en&layout=compact" alt="marcelogiovanni908" /></p>
 
-<br/>
-<hr/>
-<p align="left">
-<a href="https://github.com/MarceloGiovanni908">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MarceloGiovanni908&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarceloGiovanni908&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelogiovanni908&show_icons=true&theme=dark&locale=en" alt="marcelogiovanni908" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelogiovanni908&theme=dark" alt="marcelogiovanni908" /></p>
