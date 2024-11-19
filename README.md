@@ -10,11 +10,11 @@
 <br/>
 
 <div align="left">
-    🎓 I’m studying at **UPN VETERAN JAKARTA**
+    🎓 I’m studying at UPN VETERAN JAKARTA
     <br/>
-    📉 **data scientist**
+    📉 data scientist
     <br/>
-    🎮 Fun fact **I enjoy playing video games during my leisure time.**
+    🎮 Fun fact I enjoy playing video games during my leisure time.
 </div>
  
 <div align="center"> 
